@@ -1,0 +1,47 @@
+[
+  {
+    "id": 9,
+    "email": "arsen.manukyan@zojax.com",
+    "breedName": "Mutt",
+    "dogsImage": "https://mydogsnftcom.wpenginepowered.com/wp-content/uploads/2024/02/1-7.jpg",
+    "dogsName": "Jeko",
+    "address": "",
+    "chipId": "t3426263",
+    "fbUsername": "ewgewhwe",
+    "lastName": "Manukyan",
+    "firstName": "Arsen",
+    "country": "United States",
+    "certificate": "https://mydogsnftcom.wpenginepowered.com/wp-content/uploads/2024/02/1-7.jpg",
+    "dateMinted" : ""
+  },
+  {
+    "id": 5,
+    "email": "test@test.test",
+    "breedName": "American Foxhound",
+    "dogsImage": "https://mydogsnftcom.wpenginepowered.com/wp-content/uploads/2024/02/Portuguese-Podengo-Pequeno.webp",
+    "dogsName": "Roscoe",
+    "address": "0xe7ab7ff2ff0ae700",
+    "chipId": "418948984",
+    "fbUsername": "ewgewhwe",
+    "lastName": "rr33333",
+    "firstName": "tttt1111",
+    "country": "United States",
+    "certificate": "https://mydogsnftcom.wpenginepowered.com/wp-content/uploads/2024/02/Portuguese-Podengo-Pequeno.webp",
+    "dateMinted" : ""
+  },
+  {
+    "id": 4,
+    "email": "arsen.manukyan@zojax.com",
+    "breedName": "American Bulldog",
+    "dogsImage": "https://mydogsnftcom.wpenginepowered.com/wp-content/uploads/2024/02/dog-puppy-1.jpg",
+    "dogsName": "Jonigewhwe",
+    "address": "0xe7ab7ff2ff0ae700",
+    "chipId": "418948984",
+    "fbUsername": "ewgewhwehwehwe",
+    "lastName": "testes111",
+    "firstName": "testes111",
+    "country": "Sint Maarten (Dutch part)",
+    "certificate": "https://mydogsnftcom.wpenginepowered.com/wp-content/uploads/2024/02/dog-puppy-1.jpg",
+    "dateMinted" : "2024-02-18 22:10:12"
+  }
+]

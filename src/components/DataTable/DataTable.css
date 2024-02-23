@@ -1,0 +1,40 @@
+.table-responsive {
+  margin: 0 0 20px;
+}
+.table-responsive .table {
+  margin: 0;
+}
+.table th,
+.table td {
+  text-align: left;
+}
+.table .col-country{
+  min-width: 125px;
+}
+.table .col-email {
+  max-width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.table th input {
+  max-width: 112px;
+}
+.text-left {
+  text-align: left;
+}
+.aditinal-info {
+  padding-left: 30px;
+  overflow: hidden;
+}
+.aditinal-info dt {
+  float: left;
+  clear: left;
+  margin: 0 5px 0 0;
+}
+.aditinal-info dd {
+  overflow: hidden;
+}
+.container-fluid {
+  padding-left: 30px;
+  padding-right: 30px;
+}
